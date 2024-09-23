@@ -19,7 +19,7 @@ O desafio final do curso foi criar um jogo interativo chamado **JS GAME**, onde 
 
 1. Clone o repositório para a sua máquina local:
    ```bash
-   git clone https://github.com/AndressaAssis/logica-js-projeto_inicial.git
+   git clone https://github.com/seu-usuario/logica-js-projeto_inicial.git
    ```
 2. Acesse o diretório do projeto:
 
